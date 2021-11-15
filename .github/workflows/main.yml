@@ -1,3 +1,5 @@
+name: Hello world JavaScript action
+
 on: workflow_dispatch
 
 jobs:
